@@ -1,0 +1,4 @@
+npm run start
+ngrok http 3000
+directory: track-server
+npm run dev 
